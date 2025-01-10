@@ -1,5 +1,5 @@
 # SIMS-nosql
-# NoSQL Implementation
+## NoSQL Implementation
 
 This directory contains scripts, sample data, and queries for the MongoDB implementation of the Inventory Management System
 ## Purpose
